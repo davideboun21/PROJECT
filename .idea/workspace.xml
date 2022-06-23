@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f52378f-89f2-44bd-b462-bb7be62dc04e" name="Changes" comment="" />
+    <list default="true" id="0f52378f-89f2-44bd-b462-bb7be62dc04e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/I4G007880VR0/I4G007880VR0/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/I4G007880VR0/I4G007880VR0/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/I4G007880VR0/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/I4G007880VR0/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/I4G007880VR0/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/I4G007880VR0/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/I4G007880VR0/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/I4G007880VR0/blog/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -31,8 +40,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
